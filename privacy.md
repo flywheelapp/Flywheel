@@ -1,4 +1,5 @@
-**Privacy Policy**
+Privacy Policy
+==============
 
 Effective Date: February 16, 2025
 
