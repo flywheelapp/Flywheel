@@ -1,6 +1,5 @@
 Privacy Policy
 ==============
-
 Effective Date: February 16, 2025
 
 Flywheel ("the App") is committed to protecting your privacy. This Privacy Policy outlines how the App handles user data.
