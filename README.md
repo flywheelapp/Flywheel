@@ -8,7 +8,7 @@ wilson.zh@outlook.com
 
 Issues
 ------
-Any issues can be posted here:
+Feel free to share your suggestions, report issues, or provide feedback here:
 https://github.com/flywheelapp/Flywheel/issues/new
 
 License
