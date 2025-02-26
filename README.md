@@ -2,6 +2,35 @@ Flywheel
 ========
 Sketch your thoughts with ease.
 
+
+[![Download_on_the_Mac_App_Store_Badge](https://github.com/user-attachments/assets/d07556e5-776f-4c48-b1f5-e1d97a116cde)](https://apps.apple.com/us/app/flywheel-sketching-writing/id6741500383)
+
+
+Flywheel is a powerful app that lets you sketch your thoughts and express your ideas freely. Think of it as a notes taking app, but with an unlimited blank canvas where you can create diagrams to enhance your ideas. A simple drawing can often convey more than a thousand words.
+
+Flywheel helps you transform ideas into visual representations, making them clearer and more understandable. Whether you’re brainstorming creative concepts, designing architectural layouts, planning workflows, or mapping out complex software structures, Flywheel provides the freedom to build and express ideas effortlessly.
+
+#### WHAT IS FLYWHEEL?
+
+Flywheel allows you to create documents filled with various components—shapes, text, images, and more. These elements help you structure and visualize ideas, enabling you to design comprehensive frameworks and concepts. The process of arranging and refining these components is what we call “designing a document.”
+
+#### YOUR DESIGNS, ALL IN ONE PLACE
+
+Flywheel features a simple and intuitive file management system in the sidebar. Easily organize your work by creating folders, dragging and rearranging documents, and customizing folder appearances to suit your workflow.
+
+Whether you prefer separate documents for different topics or one continuously growing canvas, Flywheel adapts to your needs. Performance is continuously optimized to handle extensive content. Documents can be exported or imported as files, and you can also save your designs as images. All changes are automatically saved.
+
+##### UNLEASH YOUR CREATIVITY, FREELY
+
+What can you do with an unlimited blank canvas? More than just writing words—now you can build what you think.
+
+With Flywheel, your thoughts take shape through rectangles, circles, lines, and other elements. Connect them, organize them, and watch your ideas flow visually. The expansive canvas allows you to continuously expand your thoughts, offering a clear overview of your concepts at a glance. We’ve designed an intuitive experience that gives you full control over your content.
+
+#### EXTENDABLE GALLERY
+
+To enhance your creative process, Flywheel includes a Gallery feature—a collection of reusable materials that you can drag onto your canvas. The Gallery is extendable, currently supporting third-party shape libraries through Gallery Extensions. We plan to integrate even more open-source shape libraries to expand your design possibilities.
+
+
 Contact
 -------
 wilson.zh@outlook.com
