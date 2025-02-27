@@ -18,7 +18,7 @@ Flywheel features a simple and intuitive file management system in the sidebar. 
 
 Whether you prefer separate documents for different topics or one continuously growing canvas, Flywheel adapts to your needs. Performance is continuously optimized to handle extensive content. Documents can be exported or imported as files, and you can also save your designs as images. All changes are automatically saved.
 
-##### UNLEASH YOUR CREATIVITY, FREELY
+#### UNLEASH YOUR CREATIVITY, FREELY
 
 What can you do with an unlimited blank canvas? More than just writing words—now you can build what you think.
 
