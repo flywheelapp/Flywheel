@@ -1,10 +1,6 @@
 Flywheel
 ========
-Sketch your thoughts with ease.
-
-
-[![Download_on_the_Mac_App_Store_Badge](https://github.com/user-attachments/assets/d07556e5-776f-4c48-b1f5-e1d97a116cde)](https://apps.apple.com/us/app/flywheel-sketching-writing/id6741500383)
-
+[![Landscape Banner Ad - 1200x720](https://github.com/user-attachments/assets/393a94b6-ee54-44e8-8184-2c60187c2494)](https://apps.apple.com/us/app/id6741500383)
 
 Flywheel is a powerful app that lets you sketch your thoughts and express your ideas freely. Think of it as a notes taking app, but with an unlimited blank canvas where you can create diagrams to enhance your ideas. A simple drawing can often convey more than a thousand words.
 
@@ -30,6 +26,8 @@ With Flywheel, your thoughts take shape through rectangles, circles, lines, and 
 
 To enhance your creative process, Flywheel includes a Gallery feature—a collection of reusable materials that you can drag onto your canvas. The Gallery is extendable, currently supporting third-party shape libraries through Gallery Extensions. We plan to integrate even more open-source shape libraries to expand your design possibilities.
 
+
+**We are live and you're officially invited to see what's new. [Download on the App Store today](https://apps.apple.com/us/app/id6741500383).**
 
 Contact
 -------
