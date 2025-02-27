@@ -2,6 +2,8 @@ Flywheel
 ========
 [![Landscape Banner Ad - 1200x720](https://github.com/user-attachments/assets/393a94b6-ee54-44e8-8184-2c60187c2494)](https://apps.apple.com/us/app/id6741500383)
 
+**We are live and you're officially invited to see what's new. [Download on the App Store today](https://apps.apple.com/us/app/id6741500383).**
+
 Flywheel is a powerful app that lets you sketch your thoughts and express your ideas freely. Think of it as a notes taking app, but with an unlimited blank canvas where you can create diagrams to enhance your ideas. A simple drawing can often convey more than a thousand words.
 
 Flywheel helps you transform ideas into visual representations, making them clearer and more understandable. Whether you’re brainstorming creative concepts, designing architectural layouts, planning workflows, or mapping out complex software structures, Flywheel provides the freedom to build and express ideas effortlessly.
@@ -27,7 +29,7 @@ With Flywheel, your thoughts take shape through rectangles, circles, lines, and 
 To enhance your creative process, Flywheel includes a Gallery feature—a collection of reusable materials that you can drag onto your canvas. The Gallery is extendable, currently supporting third-party shape libraries through Gallery Extensions. We plan to integrate even more open-source shape libraries to expand your design possibilities.
 
 
-**We are live and you're officially invited to see what's new. [Download on the App Store today](https://apps.apple.com/us/app/id6741500383).**
+**[Download on the App Store today](https://apps.apple.com/us/app/id6741500383).**
 
 Contact
 -------
@@ -35,8 +37,7 @@ wilson.zh@outlook.com
 
 Issues
 ------
-Feel free to share your suggestions, report issues, or provide feedback here:
-https://github.com/flywheelapp/Flywheel/issues/new
+Feel free to share your suggestions, report issues, or provide feedback [here](https://github.com/flywheelapp/Flywheel/issues/new).
 
 License
 -------
